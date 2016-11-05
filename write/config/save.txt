@@ -1,0 +1,8 @@
+ssid=Quick Ap
+password=N/A
+crypt=N/A
+dhcp=ON
+dns=N/A
+in_INT=N/A
+in_OUT=N/A
+attack= NOT WEAPONIZED 
