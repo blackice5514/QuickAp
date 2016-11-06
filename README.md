@@ -17,4 +17,4 @@ To lauch the script run the following command in the main directory `python3 qui
 
 ## Usage
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="O78yooH"><a href="//imgur.com/O78yooH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt text](screenshot.PNG "Description goes here")
