@@ -19,7 +19,7 @@ To lauch the script run the following command in the main directory `python3 qui
 
 ![alt text](screenshot.PNG "Description goes here")
 
-### Main menu
+## Main menu
 
 ```
 1) Let you choose the attack that you want to use. (attack will be added further into development.)
@@ -42,3 +42,15 @@ To lauch the script run the following command in the main directory `python3 qui
 8) Restoring the default configuration of Quick ap.
 
 9) exiting the script and saving the configuration. (ctrl + c can also be use.)
+```
+## Project Status
+For now the project is at is infancy. A lot of feature will be added when I will have the time. Here are the options I want to add to the project.
+- sniffing. 
+- captive portal.
+- auto injecting beef hook in none secure browser connections.
+- wifi passphrase capture with phishing.
+- and more...
+
+## Disclaimer
+Usage of QuickAp for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
+
