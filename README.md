@@ -13,7 +13,7 @@ linux or in other distribution at the moment. More support will be added in the 
 Clone the repository `git clone` https://github.com/blackice5514/QuickAp.git. Quick ap will need python3 to run. To check if python3
 is installed on your system run the command `python3 -V`.
 
-To lauch the script run the following command in the main directory `python3 quick_ap.py`. QuickAp will install the missing dependency automatically.
+To launch the script run the following command in the main directory `python3 quick_ap.py`. QuickAp will install the missing dependency automatically.
 
 ## Usage
 
@@ -26,7 +26,7 @@ To lauch the script run the following command in the main directory `python3 qui
 
 2) Let you choose the name of your wifi hotspot.
 
-3) if a security have been chosen you will be able to change the password in this menu.
+3) if a security has been chosen you will be able to change the password in this menu.
 
 4) Let you choose the security protection that you want to use with the access point. (wpa/wpa2/wep)
 
