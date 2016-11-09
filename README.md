@@ -1,11 +1,11 @@
 # QuickAp
 
-QuickAp is a script with the goal of letting you make a wifi hotspot quickly. It will allow you to choose different option and different
+QuickAp is a script for letting you make a wifi hotspot quickly. It will allow you to choose different option and different
 attack based on your security testing need.
 
 ## Platform
 
-Currently the script is is being developed for `kali-linux 2.0.` Their is no guarantee that QuickAp will work in older version of kali
+Currently the script is being developed for `kali-linux 2.0.` There is no guarantee that QuickAp will work in older version of kali
 linux or in other distribution at the moment. More support will be added in the next version of the script.
 
 ## Installation
@@ -34,14 +34,14 @@ To lauch the script run the following command in the main directory `python3 qui
 
 6) Let you turn on/off the dnsmasq dns service. When dns fowarding is set to 'on' dnsmasq will be configured to 
    foward all the dns request to the google dns server (8.8.8.8). In this menu you also have the option to add a
-   A record entry in the host file of dnsmasq for redirecting the client on the ip address of your choice.
+   'A' record entry in the host file of dnsmasq for redirecting the client on the ip address of your choice.
 
-7) Let you choose the interface for creating the the wifi hotspot an the interface for sharing the internet with
+7) Let you choose the interface for creating the wifi hotspot and the interface for sharing the internet with
    the client.
    
 8) Restoring the default configuration of Quick ap.
 
-9) exiting the script and saving the configuration. (ctrl + c can also be use.)
+9) Quitting QickAp and saving the configuration. (ctrl + c can also be use.)
 ```
 ## Project Status
 For now the project is at is infancy. A lot of feature will be added when I will have the time. Here are the options I want to add to the project.
@@ -52,5 +52,5 @@ For now the project is at is infancy. A lot of feature will be added when I will
 - and more...
 
 ## Disclaimer
-Usage of QuickAp for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
+Use of QuickAp for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
 
