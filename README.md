@@ -1,6 +1,6 @@
 # QuickAp
 
-QuickAp is a script for letting you make a wifi hotspot quickly. It will allow you to choose different option and different
+QuickAp is a script that allow you to make a wifi hotspot quickly. You can choose different option and different
 attack based on your security testing need.
 
 ## Platform
